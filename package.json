@@ -1,0 +1,15 @@
+{
+  "name": "cypresstestproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "anna mazanko",
+  "license": "ISC",
+  "devDependencies": {
+    "@shelex/cypress-allure-plugin": "^2.31.0",
+    "cypress": "^10.7.0"
+  }
+}
