@@ -1,6 +1,6 @@
 /// <reference types="Cypress"/>
 
-/* it('By ID', () => {
+it('By ID', () => {
     cy.visit("https://facebook.com")
     cy.get('#email')
 });
@@ -33,9 +33,7 @@ it('By Different Types', () => {
 it.only('By Contains name', () => {
     cy.visit("https://192.168.1.194:8441/login")
     cy.get('button[type="button"][aria-label="Search"]')
-}); */
-
-//Comment
+});
 
 it('Using Get with Find and Eq', () => {
     cy.visit("https://ptable.com/")
