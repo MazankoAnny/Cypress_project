@@ -32,5 +32,3 @@ it.only('Money transfer between foreign cards', ()=>{
     .type('0223')
 
 })
-.
-
